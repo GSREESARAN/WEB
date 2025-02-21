@@ -1,0 +1,131 @@
+ 
+.LinkedInbutton{
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 25px;  
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+.Apply{
+    background-color: rgb(10, 102, 194); 
+    color: white;
+    border: 1px solid rgb(10, 102, 194);
+}
+.save{
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border: 1px solid rgb(10, 102, 194);
+}
+
+.BootstrapButton{
+    font-size: 16px;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 6px;  
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+.getstarted{
+    background-color: rgb(121, 82, 179);  
+  color: white;
+  border: 1px solid rgb(121, 82, 179);
+}
+.download{
+    background-color: rgb(108, 117, 125);  
+  color: white;
+  border: 1px solid rgb(108, 117, 125);
+}
+
+.GithubButton{
+    font-size: 16px;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 6px;  
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+.signup{
+    background-color: rgb(46, 164, 79); /* GitHub Green */
+  color: white;
+  border: 1px solid rgb(46, 164, 79);
+}
+.AmazonButton{
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 6px;  
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid transparent;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+.amazon{
+    background-color: rgb(255, 216, 20);  
+  color: black;
+  border: 1px solid rgb(255, 216, 20);
+}
+.UberButton{
+    font-size: 16px;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 6px;  
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+.uber{
+    background-color: black;
+  color: white;
+  border: 2px solid white;  
+}
+
+.backToAmazon{
+   color: rgb(0,113, 133); 
+}
+.NikeShoes{
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+.stock{
+    color: rgb(0, 118, 0);
+    font-weight: 800;
+}
+.addtocarTButton{
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 20px ;
+    cursor: pointer;
+    border: 1px transparent;
+    background-color: rgb(255, 216, 20);
+
+}
+ 
+.buynow{
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 20px ;
+    cursor: pointer;
+    border: 1px transparent;
+    background-color: rgb(255, 164, 28);
+
+}
